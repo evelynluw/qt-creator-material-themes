@@ -4,9 +4,11 @@ Based on [vsc-material-theme](https://github.com/equinusocio/vsc-material-theme)
 
 ## Installation
 
+Copy the .xml files to the styles folder of QT Creator. 
+
 Windows: 
 ```
-xcopy Material.xml %APPDATA%\QtProject\qtcreator\styles
+xcopy Material.xml C:\Qt\Tools\QtCreator\share\qtcreator\styles
 ```
 
 MacOS: 
